@@ -6,15 +6,14 @@
       "id": 1
     },
     {
-      "title": "MyStream2",
-      "description": "This is a great stream",
+      "title": "Other Stream",
+      "description": "Here's some stream",
       "id": 2
     },
     {
-      "title": "I Created This Stream",
-      "description": "This was created by me!",
-      "userId": "107235088221219249984",
-      "id": 3
+      "title": "Me Streaming Component Reuse!",
+      "description": "This stream is about refactoring!!!",
+      "id": 4
     }
   ]
 }
